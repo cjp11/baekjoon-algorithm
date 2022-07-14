@@ -1,8 +1,8 @@
 #.idea 디렉토리에 있는 모든 파일
-.idea/
+DP/.idea/
 
 #out 디렉토리에 있는 모든 파일
-out/
+DP/out/
 
 #.iml 모든 파일
-.iml
+DP/*.iml
