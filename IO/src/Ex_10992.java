@@ -19,5 +19,6 @@ public class Ex_10992 {
             bw.write("\n");
         }
         bw.close();
+
     }
 }
